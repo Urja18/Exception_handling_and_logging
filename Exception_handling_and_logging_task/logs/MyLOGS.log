@@ -1,0 +1,7 @@
+[INFO ] 2020-02-26 23:13:22.607 [main] TestIntrest - MENU
+[INFO ] 2020-02-26 23:15:58.536 [main] TestIntrest - MENU
+[INFO ] 2020-02-26 23:16:00.897 [main] TestIntrest - Enter principal,rate of interest and time: 
+[INFO ] 2020-02-26 23:16:10.866 [main] CompoundIntrest - WE CALCULATE COMPOUND INTREST HERE
+[INFO ] 2020-02-26 23:16:10.866 [main] TestIntrest - Compound Interest is: 515.4558539495763
+[INFO ] 2020-02-26 23:16:10.867 [main] TestIntrest - MENU
+[INFO ] 2020-02-26 23:16:15.796 [main] TestIntrest - ThankYou
